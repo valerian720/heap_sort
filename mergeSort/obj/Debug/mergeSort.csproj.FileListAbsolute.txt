@@ -1,0 +1,20 @@
+C:\Users\v.a.vorotnikov\Desktop\code\mergeSort\mergeSort\bin\Debug\mergeSort.exe.config
+C:\Users\v.a.vorotnikov\Desktop\code\mergeSort\mergeSort\bin\Debug\mergeSort.exe
+C:\Users\v.a.vorotnikov\Desktop\code\mergeSort\mergeSort\bin\Debug\mergeSort.pdb
+C:\Users\v.a.vorotnikov\Desktop\code\mergeSort\mergeSort\obj\Debug\mergeSort.csprojResolveAssemblyReference.cache
+C:\Users\v.a.vorotnikov\Desktop\code\mergeSort\mergeSort\obj\Debug\mergeSort.csproj.CoreCompileInputs.cache
+C:\Users\v.a.vorotnikov\Desktop\code\mergeSort\mergeSort\obj\Debug\mergeSort.exe
+C:\Users\v.a.vorotnikov\Desktop\code\mergeSort\mergeSort\obj\Debug\mergeSort.pdb
+C:\Users\п\Desktop\2018 программирование\heapSort\mergeSort\bin\Debug\mergeSort.exe.config
+C:\Users\п\Desktop\2018 программирование\heapSort\mergeSort\obj\Debug\mergeSort.exe
+C:\Users\п\Desktop\2018 программирование\heapSort\mergeSort\obj\Debug\mergeSort.pdb
+C:\Users\п\Desktop\2018 программирование\heapSort\mergeSort\bin\Debug\mergeSort.exe
+C:\Users\п\Desktop\2018 программирование\heapSort\mergeSort\bin\Debug\mergeSort.pdb
+C:\Users\п\Desktop\2018 программирование\heapSort\mergeSort\obj\Debug\mergeSort.csprojResolveAssemblyReference.cache
+D:\c sharp projects\heapSort\mergeSort\bin\Debug\mergeSort.exe.config
+D:\c sharp projects\heapSort\mergeSort\bin\Debug\mergeSort.exe
+D:\c sharp projects\heapSort\mergeSort\bin\Debug\mergeSort.pdb
+D:\c sharp projects\heapSort\mergeSort\obj\Debug\mergeSort.csprojAssemblyReference.cache
+D:\c sharp projects\heapSort\mergeSort\obj\Debug\mergeSort.csproj.CoreCompileInputs.cache
+D:\c sharp projects\heapSort\mergeSort\obj\Debug\mergeSort.exe
+D:\c sharp projects\heapSort\mergeSort\obj\Debug\mergeSort.pdb
